@@ -13,7 +13,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "The Official Sanctuary | Dark RP";
+var l_serverName = "Hosted by the Svera Network";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -221,7 +221,11 @@ var l_messagesEnabled = true;
 var l_messages = [
 "This shouldn't take long, please continue to wait <3",
 "We appreciate the time you spend with us.",
-"Welcome to The Officail Sanctuary DarkRP!",
+"Welcome to ZApocalypse! A Zombie Apocalyptic Roleplaying experience.",
+"We aim to create a symbiotic relationship between factions and each classes use.",
+"Have feedback with suggestions or bugs? Join the discord ingame.",
+"CSS Content is recommended.", 
+"We aim to keep the content download to a reasonable size.",
 ];
 
 /*Random message order?*/
